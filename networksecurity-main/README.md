@@ -1,5 +1,4 @@
 
-
 **End-to-End MLOps Project with ETL Pipelines - Building a Network Security System**
 
 **Technology Stack Utilized for the MLOps Network Security System Project**
